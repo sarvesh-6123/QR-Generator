@@ -1,2 +1,2 @@
-# Todo-List
-A simple Todo List
+# QR-Generator
+A simple QR-Code-Generator
